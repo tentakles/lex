@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexbas", "Lexbas\Lexbas.csproj", "{8816BF8E-8F8A-4A79-A6FF-1C9482EECE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexDb", "LexDb\LexDb.csproj", "{DB236FE7-9500-4E1D-B387-3FF5B9C46B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonData", "PersonData\PersonData.csproj", "{0EF8D6D1-53DB-4D62-B660-0A68FD9BB83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexWeb", "LexWeb\LexWeb.csproj", "{D24C920C-7A83-4C63-9F0B-79B1E01930B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8816BF8E-8F8A-4A79-A6FF-1C9482EECE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8816BF8E-8F8A-4A79-A6FF-1C9482EECE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8816BF8E-8F8A-4A79-A6FF-1C9482EECE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8816BF8E-8F8A-4A79-A6FF-1C9482EECE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB236FE7-9500-4E1D-B387-3FF5B9C46B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB236FE7-9500-4E1D-B387-3FF5B9C46B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB236FE7-9500-4E1D-B387-3FF5B9C46B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB236FE7-9500-4E1D-B387-3FF5B9C46B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF8D6D1-53DB-4D62-B660-0A68FD9BB83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF8D6D1-53DB-4D62-B660-0A68FD9BB83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF8D6D1-53DB-4D62-B660-0A68FD9BB83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF8D6D1-53DB-4D62-B660-0A68FD9BB83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24C920C-7A83-4C63-9F0B-79B1E01930B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24C920C-7A83-4C63-9F0B-79B1E01930B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24C920C-7A83-4C63-9F0B-79B1E01930B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24C920C-7A83-4C63-9F0B-79B1E01930B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
